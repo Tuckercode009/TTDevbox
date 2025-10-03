@@ -15,22 +15,21 @@
             <a href="/"><img src="/assets/codespaces.png" /></a>
             <div class="about__container">
                 <div class="about__left">
-                    <img src="/assets/default.jpg" />
+                    <img src="/assets/LumenPFP.png" />
                 </div>
                 <div class="about__right">
                     <h1>About Me</h1>
-                    <h3 class="about-name">My Name</h3>
+                    <h3 class="about-names style="color: red;">LumenAE 
+                    </h3>
                     <p>Welcome to my about page! Here you can find more information about my background, skills, and interests.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut sem eu libero finibus scelerisque a vel nulla. Donec venenatis magna justo, at fringilla sapien convallis in. Suspendisse dapibus est sit amet mollis gravida. Aliquam vulputate purus id magna semper elementum. Praesent at faucibus quam, eget convallis risus. In eget magna semper nunc blandit elementum eget sed tellus. Sed a pulvinar sapien. Aenean vulputate enim vel finibus scelerisque. Vivamus vestibulum, risus non scelerisque hendrerit, diam magna efficitur dui, in rhoncus lorem arcu sed quam. Donec viverra arcu vel dapibus condimentum. Sed mattis placerat nulla, sit amet malesuada nisi molestie a. Nulla malesuada euismod massa id scelerisque. Morbi nec lectus ligula. Mauris sed sapien quis eros aliquet fringilla id ut felis. Sed eget condimentum leo. Morbi congue sapien eget iaculis pellentesque.</p>
-                    <p>Curabitur pellentesque pellentesque arcu, ac suscipit risus maximus at. Ut sed leo sit amet ante laoreet finibus non et neque. Nam ornare orci nisl, vel sagittis turpis laoreet eget. Nulla bibendum nunc vitae metus posuere, sit amet varius purus porttitor. Pellentesque dapibus dolor in feugiat suscipit. Donec commodo mattis tellus sed imperdiet. Maecenas a tempus ex. Donec aliquet lacus sed metus pellentesque tincidunt. Duis fringilla urna tortor, nec vulputate lacus facilisis sit amet. Mauris quis dui vitae arcu pulvinar elementum. Morbi sit amet nisl sit amet leo gravida elementum sed sit amet odio. Nulla facilisi. Quisque fringilla ornare nunc, vel volutpat erat ultricies non. Suspendisse posuere, tellus id volutpat facilisis, urna odio mollis nisi, quis rhoncus est ex ac lectus. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                    <p>Hi, I'm an After Effects Editor. That what the AE stands for in my name. I edit movies and sometimes games to add some flare to the Youtube algoritim. 
+                    <p>I'm sure you've heard of a movie edit before, or atleast seen one. A movie edit consists of three sections, the hook, the intro, and finally the edit. The hook is the first three seconds of the video, and it's the most important part. The hook is what grabs the viewers attention and keeps them from swiping. Next is the intro, which is often funny, scary, or just serious. The intro leads up to the edit and is most of the time a movie scene that is well known. Last but certainly not least is the edit. it is the main part of the full movie edit and often consists of clips from different parts of the movie weaved together in a unique and satisfying fashion, often using music in the background to give the edit beats to cut to. Under this I left an edit to watch so you can better understand what a movie edit is.
+</p>    <iframe width="774" height="849" src="https://www.youtube.com/embed/iWKlKx6DPxU" title="&quot;No One Can Touch Me&quot; | F1 The Movie Edit | Blinding Lights - The Weekend (slowed reverb) #bradpitt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <div class="about__socials"><?php
 
                         // Set socials.
                         $socials = [
-                            'instagram' => 'https://www.instagram.com',
-                            'snapchat'  => 'https://www.snapchat.com',
-                            'facebook'  => 'https://www.facebook.com',
-                            'imessage'  => 'tel:1231231234'
+
                         ];
 
                         // Loop.
