@@ -25,6 +25,7 @@
                     <p>Hi, I'm an After Effects Editor. That what the AE stands for in my name. I edit movies and sometimes games to add some flare to the Youtube algoritim. 
                     <p>I'm sure you've heard of a movie edit before, or atleast seen one. A movie edit consists of three sections, the hook, the intro, and finally the edit. The hook is the first three seconds of the video, and it's the most important part. The hook is what grabs the viewers attention and keeps them from swiping. Next is the intro, which is often funny, scary, or just serious. The intro leads up to the edit and is most of the time a movie scene that is well known. Last but certainly not least is the edit. it is the main part of the full movie edit and often consists of clips from different parts of the movie weaved together in a unique and satisfying fashion, often using music in the background to give the edit beats to cut to. Under this I left an edit to watch so you can better understand what a movie edit is.
                     <p><iframe width="450" height="490" src="https://www.youtube.com/embed/ZpaGHFc-pRM" title="A New Beginning | Spiderman Brand New Day Edit | Circles (super slowed)#spiderman #edit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>    
+                    <a href="https://    
                     <div class="about__socials"><?php
 
                         // Set socials.
