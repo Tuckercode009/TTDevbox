@@ -7,21 +7,35 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="/assets/youtube.css" media="all" />
+        <link rel="stylesheet" href="/assets/youtube.css?ver=<?php echo date('YmdHis');?>" media="all" />
     </head>
     <body>
         <!-- Get started here -->
          <div id="header">
+            <div class="header-inner header-left">
+                <button id="hamburger">
+                    <img src="/assets/hamburger.svg"/>
+                </button>
+                <img id="logo" src="/assets/youtube.svg"/>
             </div>
-            <div class="hedder-inner header-left"></div>
-            <img id="logo" src="/assets/youtube.svg"/>
-      </div>
-      <div class="header-inner header-center">
-        <form method="post" id="search"></form>
-             <input type="text" name="search" placeholder="search"   />
-             <input type="submit" value="search" />
-      </div>
-      <div class="header-inner header-right">
+            <div class="header-inner header-center">
+                <form method="post" id="search"></form>
+                    <input type="text" name="search" placeholder="search"   />
+                    <input type="submit" value="search" />
+                </form>
+                <button id="voice-search">
+                    <img src="/assets/microphone.svg" />
+                </button>
+            </div>
+            <div class="header-inner header-right">
+                <button id="settings">
+                    <img src="/assets/verticle-dots.svg" />
+                </button>
+                <button id="user">
+                    <img src="/assets/user.svg" />
+                    <span>Sign In</span>
+                </button>
+            </div>
         </div>
         <!-- https://picsum.photos/530/300 -->
     </body>
