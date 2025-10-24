@@ -14,13 +14,13 @@
          <div id="header">
             <div class="header-inner header-left">
                 <button id="hamburger">
-                    <img src="/assets/hamburger.svg"/>
+                    <?php include dirname(path:__file__) . '/assets/hamburger.svg'; ?>
                 </button>
                 <img id="logo" src="/assets/youtube.svg"/>
             </div>
             <div class="header-inner header-center">
-                <form method="post" id="search"></form>
-                    <input type="text" name="search" placeholder="search"   />
+                <form method="GET" id="search" action="https://www.youtube.com/results">
+                    <input type="text" name="search_query" placeholder="search"   />
                     <input type="submit" value="search" />
                 </form>
                 <button id="voice-search">
